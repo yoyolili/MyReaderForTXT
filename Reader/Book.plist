@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>微微一笑很倾城</string>
+		<key>form</key>
+		<string>txt</string>
+		<key>size</key>
+		<string>500.09KB</string>
+		<key>date</key>
+		<date>2015-12-16T09:06:14Z</date>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>最美遇见你</string>
+		<key>form</key>
+		<string>txt</string>
+		<key>size</key>
+		<string>867.16KB</string>
+		<key>date</key>
+		<date>2015-12-16T09:06:44Z</date>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>不负深情</string>
+		<key>form</key>
+		<string>txt</string>
+		<key>size</key>
+		<string>1.6M</string>
+		<key>date</key>
+		<date>2015-12-16T09:07:07Z</date>
+	</dict>
+</array>
+</plist>
